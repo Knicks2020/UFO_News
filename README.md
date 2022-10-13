@@ -5,6 +5,7 @@ The debate of whether or life exists on another planet has been going on for dec
 
 We have developed this website to have all of our data in a central location and allow the user to judge for themselves in regard to whether or not aliens actually exist and also whether or not they are trying to contact us.  Upon arriving at the website, you will see where you are able to conduct a search based on several options.  You can choose 1 or all of them depending on how specific you want you want your results to be.  As you can see in the image below, we have selected the state of California.  After pressing enter on the keyboard we see that the filtered results are being shown based on our request.
 
+![pic1](https://github.com/Knicks2020/UFO_News/blob/198fed0d316ffd001cc1ec6260427624f2c4db54/pictures/2022-09-30%20(1).png)<br><br>
 
  
 	
